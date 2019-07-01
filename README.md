@@ -14,6 +14,8 @@ LG G2 Mini (G2MLTE)
 
 LG G3 (G3)
 
+LG G6 (G6) - All variants except H872
+
 Nexus 5 (Hammerhead)
 
 LG Optimus L3 II (L3II)
